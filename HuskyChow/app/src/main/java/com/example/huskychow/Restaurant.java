@@ -33,4 +33,32 @@ public class Restaurant {
         this.currencyType = currencyType;
         this.price = price;
     }
+
+    //getters for the 5 private fields of this object
+    //TODO add one for open and close time
+
+    //returns the name of the restaurant.
+    public String getName() {
+        return this.name;
+    }
+
+    //return the address of the restaurant.
+    public String getAddress() {
+        return this.address;
+    }
+
+    //return the url of the restaurant's website.
+    public String getUrl() {
+        return this.url;
+    }
+
+    //return the CurrencyType of the restaurant.
+    public CurrencyType getCurrencyType() {
+        return this.currencyType;
+    }
+
+    //return the RestaurantPrice of the restaurant.
+    public RestaurantPrice getPrice() {
+        return this.price;
+    }
 }
