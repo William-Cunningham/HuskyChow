@@ -3,4 +3,9 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="places_api_key">AIzaSyDBcLphw4W6dTsnaZGTkhKNcsEZRpevr8g</string>
+    <string name="error_api_key">No API key defined in gradle.properties</string>
+    <string name="husky_dollars_filter_description">Husky Dollars Filter</string>
+    <string name="husky_swipes_filter_description">Husky Swipes Filter</string>
+    <string name="title_activity_search">SearchActivity</string>
 </resources>
